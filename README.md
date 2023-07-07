@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SebastianMuzalewski
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Java, JavaScript, Python and more languages!
+- 🌱 I’m currently learning multiple languages!
 - 💻 For job offers and opportunities reach out to me on [LinkedIn](https://www.linkedin.com/in/sebastian-muzalewski/) or email me @smuzalew@gmail.com
 
 <!---
