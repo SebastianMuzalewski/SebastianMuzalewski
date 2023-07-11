@@ -6,5 +6,6 @@
 <!---
 SebastianMuzalewski/SebastianMuzalewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+Temporary Swapouts:
 - 🔍 I’m looking for a [Season | Year | Co-op ] position related to [ field('s) of study ]
 --->
