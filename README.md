@@ -1,7 +1,7 @@
-- 👋 Hi, I’m SebastianMuzalewski
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning multiple languages!
-- 💻 For job offers and opportunities reach out to me on [LinkedIn](https://www.linkedin.com/in/sebastian-muzalewski/) or email me smuzalew@gmail.com
+- 👋 Hey, I’m Sebastian
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning Java & Python!
+- 💻 For job offers and opportunities reach out to me on [LinkedIn](https://www.linkedin.com/in/sebastian-muzalewski/) or email me at smuzalew@gmail.com
 
 <!---
 SebastianMuzalewski/SebastianMuzalewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
