@@ -4,7 +4,19 @@
 - 🗃️ Some personal projects are currently in the works
 
 
+
 <!---
+# Hey 👋, I’m Sebastian
+
+### Tech Stacks & Skills
+
+### Project Portfolio & Contributions
+
+### Github Statstics
+
+---
+##### Socials
+
 SebastianMuzalewski/SebastianMuzalewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
