@@ -1,5 +1,9 @@
 # Greetings 👋, I’m Sebastian!
 
+<div>
+  <img src="https://github.com/SebastianMuzalewski/SebastianMuzalewski/assets/113144733/6b45c109-7b0d-4b20-84c8-ee7748fb4beb" alt="pikmin-4-pikmin" style="width: 100%;" />
+</div>
+
 🙋🏻‍♂️  About me:
 --------------
 
@@ -19,12 +23,12 @@
 ------------------------
 
 ##### Languages & Frameworks: 
-<!--- MAX 7 items per row --->
+<!--- MAX 5 cards per row --->
 
 [![Tech Stack](https://skillicons.dev/icons?i=html,css,js&perline=5)](https://skillicons.dev)
 
 ##### App Skills:
-<!--- MAX 7 items per row --->
+<!--- MAX 5 cards per row --->
 
 [![Tech Stack](https://skillicons.dev/icons?i=vscode,git,github&perline=5)](https://skillicons.dev)
 
@@ -39,11 +43,16 @@
 
 ---
 
-Github Statstics
-----------------
+⚙️ Github Statistics
+--------------------
 
-[![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianMuzalewski&theme=merko)](https://github.com/SebastianMuzalewski/github-readme-stats)
-  
+<a href="https://github.com/SebastianMuzalewski/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SebastianMuzalewski&theme=merko&card_width=484" />
+</a>
+<a href="https://github.com/SebastianMuzalewski/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SebastianMuzalewski&theme=merko&layout=compact&langs_count=8&card_width=484" />
+</a>
+
 ---
 Socials:
 --------
