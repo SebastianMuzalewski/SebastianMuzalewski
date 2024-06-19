@@ -13,35 +13,22 @@
 </br>
 <span style="font-size:0.5em;"> ✉️ Please feel free to reach to me on my socails at the bottom of the page. </span>
 </br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<img alt="RGB Separation Line" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-Tech Stacks & Skills
--------------
+🛠️ Tech Stacks & Skills
+------------------------
 
-##### Languages & Frameworks:
+##### Languages & Frameworks: 
+<!--- MAX 7 items per row --->
 
-<!---
-MAX 7 items per row
---->
-<table text-align: center;>
-  <tr>
-    <th align="center"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width=100px; height=100px;/><br>HTML 5</th>
-    <th align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" width=100px; height=100px;/><br>CSS</th>
-    <th align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width=100px; height=100px;/><br>JavaScript</th>
-  </tr>
-</table>
-  
-  ##### App Skills:
-  
-<table>
-  <tr>
-    <th align="center"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" width=100px; height=100px;/><br>Visual Studio</th>
-    <th align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width=100px; height=100px;/><br>Git</th>
-    <th align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" width=100px; height=100px;/><br>Github</th>
-  </tr>
-</table>
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,js&perline=5)](https://skillicons.dev)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+##### App Skills:
+<!--- MAX 7 items per row --->
+
+[![Tech Stack](https://skillicons.dev/icons?i=vscode,git,github&perline=5)](https://skillicons.dev)
+
+<img alt="RGB Separation Line" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 Project Portfolio & Contributions
 ---------------------------------
@@ -93,6 +80,8 @@ Socials:
 <img alt="Stackoveflow Social"src="https://camo.githubusercontent.com/27304ac2b067007986768190c77ebec604654ed1f65d6550f8e8d64d0e47837b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d537461636b6f766572666c6f77266c6f676f3d737461636b6f766572666c6f77266c6162656c3d26636f6c6f723d464537413136266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" />
 
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card
+
+https://github.com/tandpfun/skill-icons
 
 - 🔍 I’m looking for a [Season | Year | Co-op ] position related to [ field('s) of study ]
 - 💻 For job offers and opportunities reach out to me on [LinkedIn](https://www.linkedin.com/in/sebastian-muzalewski/) or email me at smuzalew@gmail.com
