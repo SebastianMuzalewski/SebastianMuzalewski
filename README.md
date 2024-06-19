@@ -79,22 +79,28 @@
   </a>
 </p>
 
-<!---
-SebastianMuzalewski/SebastianMuzalewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+<!--- Extras
 
-<!---
-Temporary Swapouts:
+GitHub Introduction: SebastianMuzalewski/SebastianMuzalewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Socials:
+Card Resources:
+i.) https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card
+
+ii.) https://github.com/tandpfun/skill-icons
+
+
+Unused Socials:
+i.) Twitter
 <img alt="Twitter Social" src="https://camo.githubusercontent.com/e97449103b99db365dca0ff65af4a8b068a831136dc0a156239a71dff4223dba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465"/>
+ii.) Instagram
 <img alt="Instagram Social"src="https://camo.githubusercontent.com/f41da31bf426102ea1df9c083e9a316abd3af1ffb908fd8c9bd7be651d4d4541/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" />
+iii.) Stackoverflow
 <img alt="Stackoveflow Social"src="https://camo.githubusercontent.com/27304ac2b067007986768190c77ebec604654ed1f65d6550f8e8d64d0e47837b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d537461636b6f766572666c6f77266c6f676f3d737461636b6f766572666c6f77266c6162656c3d26636f6c6f723d464537413136266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" />
 
-https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card
+Unsused About Me Extras:
+<span style="font-size:0.5em;"> 🔍 I’m looking for a [Season | Year | Co-op ] position related to [ field('s) of study ] </span>
+</br>
+<span style="font-size:0.5em;"> 💻 For job offers and opportunities reach out to me on [LinkedIn](https://www.linkedin.com/in/sebastian-muzalewski/) or email me at smuzalew@gmail.com </span>
+</br>
 
-https://github.com/tandpfun/skill-icons
-
-- 🔍 I’m looking for a [Season | Year | Co-op ] position related to [ field('s) of study ]
-- 💻 For job offers and opportunities reach out to me on [LinkedIn](https://www.linkedin.com/in/sebastian-muzalewski/) or email me at smuzalew@gmail.com
 --->
