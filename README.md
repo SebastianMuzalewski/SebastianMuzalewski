@@ -30,10 +30,12 @@
 
 <img alt="RGB Separation Line" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-Project Portfolio & Contributions
+📁 Project Portfolio & Contributions
 ---------------------------------
 
-- 🗃️ Some personal projects are currently in the works
+ <!--[![Personal Website](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMuzalewski&repo=github-Personal_Website)](https://github.com/SebastianMuzalewski/Personal_Website) -->
+
+⚒️ My first personal project is currently in the works... Expected: August 2024
 
 ---
 
