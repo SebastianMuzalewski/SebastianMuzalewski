@@ -1,10 +1,25 @@
-# Hey 👋, I’m Sebastian
+# Greetings 👋, I’m Sebastian!
 
+🙋🏻‍♂️  About me:
+--------------
+
+<span style="font-size:0.5em;"> 🧠 I'm always constantly learning and open to exploring new technologies & ideas. </span>
+</br>
+<span style="font-size: 12px"> 🎓 Currently I am a recent graduate in Computer Science from Humber College. </span>
+</br>
+<span style="font-size:0.5em;"> 🌱 I'm on track to learning more about how to build a personal website. </span>
+</br>
+<span style="font-size:0.5em;"> 🏆 My goal is to someday create an application that will benefit millions around the world. </span>
+</br>
+<span style="font-size:0.5em;"> ✉️ Please feel free to reach to me on my socails at the bottom of the page. </span>
+</br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-### Tech Stacks & Skills
+Tech Stacks & Skills
+-------------
 
 ##### Languages & Frameworks:
+
 <!---
 MAX 7 items per row
 --->
@@ -28,18 +43,21 @@ MAX 7 items per row
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-### Project Portfolio & Contributions
+Project Portfolio & Contributions
+---------------------------------
 
 - 🗃️ Some personal projects are currently in the works
 
 ---
 
-### Github Statstics
+Github Statstics
+----------------
 
 [![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianMuzalewski&theme=merko)](https://github.com/SebastianMuzalewski/github-readme-stats)
   
 ---
-##### Socials:
+Socials:
+--------
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <a href="https://www.linkedin.com/in/seb-muz/">
@@ -75,15 +93,6 @@ Socials:
 <img alt="Stackoveflow Social"src="https://camo.githubusercontent.com/27304ac2b067007986768190c77ebec604654ed1f65d6550f8e8d64d0e47837b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d537461636b6f766572666c6f77266c6f676f3d737461636b6f766572666c6f77266c6162656c3d26636f6c6f723d464537413136266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" />
 
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card
-
-👨🏻‍💻  About Me
-💡  I like to explore new technologies and develop software solutions and quick hacks.
-🎓  I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.
-🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
-✍️  In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.
-💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-✉️  You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.
-📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 
 - 🔍 I’m looking for a [Season | Year | Co-op ] position related to [ field('s) of study ]
 - 💻 For job offers and opportunities reach out to me on [LinkedIn](https://www.linkedin.com/in/sebastian-muzalewski/) or email me at smuzalew@gmail.com
