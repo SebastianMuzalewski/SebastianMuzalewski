@@ -21,7 +21,6 @@ MAX 7 items per row
 <table>
   <tr>
     <th align="center"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" width=100px; height=100px;/><br>Visual Studio</th>
-    <th align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width=100px; height=100px;/><br>Excel</th>
     <th align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width=100px; height=100px;/><br>Git</th>
     <th align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" width=100px; height=100px;/><br>Github</th>
   </tr>
@@ -37,7 +36,7 @@ MAX 7 items per row
 
 ### Github Statstics
 
-- ⚡ Statistics to be released soon...
+[![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianMuzalewski&theme=merko)](https://github.com/SebastianMuzalewski/github-readme-stats)
   
 ---
 ##### Socials:
@@ -74,6 +73,17 @@ Socials:
 <img alt="Twitter Social" src="https://camo.githubusercontent.com/e97449103b99db365dca0ff65af4a8b068a831136dc0a156239a71dff4223dba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465"/>
 <img alt="Instagram Social"src="https://camo.githubusercontent.com/f41da31bf426102ea1df9c083e9a316abd3af1ffb908fd8c9bd7be651d4d4541/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" />
 <img alt="Stackoveflow Social"src="https://camo.githubusercontent.com/27304ac2b067007986768190c77ebec604654ed1f65d6550f8e8d64d0e47837b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d537461636b6f766572666c6f77266c6f676f3d737461636b6f766572666c6f77266c6162656c3d26636f6c6f723d464537413136266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" />
+
+https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card
+
+👨🏻‍💻  About Me
+💡  I like to explore new technologies and develop software solutions and quick hacks.
+🎓  I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.
+🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
+✍️  In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.
+💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
+✉️  You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.
+📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 
 - 🔍 I’m looking for a [Season | Year | Co-op ] position related to [ field('s) of study ]
 - 💻 For job offers and opportunities reach out to me on [LinkedIn](https://www.linkedin.com/in/sebastian-muzalewski/) or email me at smuzalew@gmail.com
