@@ -39,7 +39,7 @@
 
  <!--[![Personal Website](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMuzalewski&repo=github-Personal_Website)](https://github.com/SebastianMuzalewski/Personal_Website) -->
 
-⚒️ My first personal project is currently in the works... Expected: September 2024
+⚒️ My first personal project is currently in the works... Expected: December 2024
 
 ---
 
