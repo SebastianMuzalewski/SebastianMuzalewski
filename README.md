@@ -9,7 +9,7 @@
 
 <span style="font-size:0.5em;"> 🧠 I'm always constantly learning and open to exploring new technologies & ideas. </span>
 </br>
-<span style="font-size: 12px"> 🎓 Currently I am a recent graduate in Computer Science from Humber College. </span>
+<span style="font-size: 0.5em"> 🎓 Currently I am a recent graduate in Computer Science from Humber College. </span>
 </br>
 <span style="font-size:0.5em;"> 🌱 I'm on track to learning more about how to build a personal website. </span>
 </br>
