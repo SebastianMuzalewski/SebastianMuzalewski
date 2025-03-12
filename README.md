@@ -1,26 +1,26 @@
-# Greetings 👋, I’m Sebastian!
+<!-- Section01: General Introduction -->
 
-<div>
-  <img src="https://github.com/SebastianMuzalewski/SebastianMuzalewski/assets/113144733/6b45c109-7b0d-4b20-84c8-ee7748fb4beb" alt="pikmin-4-pikmin" style="width: 100%;" />
-</div>
+# 👋 Hello! I’m Sebastian
+Welcome to my Github profile!
 
-🙋🏻‍♂️  About me:
---------------
+<!-- <img src="https://github.com/SebastianMuzalewski/SebastianMuzalewski/assets/113144733/6b45c109-7b0d-4b20-84c8-ee7748fb4beb" alt="pikmin4-characters" style="width: 1000px;"/> -->
 
-<span style="font-size:0.5em;"> 🧠 I'm always constantly learning and open to exploring new technologies & ideas. </span>
-</br>
-<span style="font-size: 0.5em"> 🎓 Currently I am a recent graduate in Computer Science from Humber College. </span>
-</br>
-<span style="font-size:0.5em;"> 🌱 I'm on track to learning more about how to build a personal website. </span>
-</br>
-<span style="font-size:0.5em;"> 🏆 My goal is to someday create an application that will benefit millions around the world. </span>
-</br>
-<span style="font-size:0.5em;"> ✉️ Please feel free to reach to me on my socails at the bottom of the page. </span>
-</br>
-<img alt="RGB Separation Line" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<!-- Section02: About Me -->
 
-🛠️ Tech Stacks & Skills
-------------------------
+## 🙋🏻‍♂️ About me:
+---
+
+- 🧠 I'm always constantly learning and open to exploring new technologies & ideas.
+- 🎓 I have recently graduated from Humber College in the Computer Programming program.
+- 🏆 My goal is to someday work at a FAANG company. 
+- 🌱 I'm on track to becoming the best version of myself in all aspects of life.
+- ✉️ Feel free to reach out! (Currently not looking for any job portunities ATM).
+
+<img alt="RGB Horizontal Line" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- Section03: Tech stack & Extra Skills -->
+
+## 🛠️ Tech Stacks & Skills
 
 ##### Languages & Frameworks: 
 <!--- MAX 5 cards per row --->
@@ -32,7 +32,7 @@
 
 [![Tech Stack](https://skillicons.dev/icons?i=vscode,git,github&perline=5)](https://skillicons.dev)
 
-<img alt="RGB Separation Line" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<img alt="RGB Horizontal Line" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 📁 Project Portfolio & Contributions
 ---------------------------------
