@@ -8,7 +8,6 @@ Welcome to my Github profile!
 <!-- Section02: About Me -->
 
 ## 🙋🏻‍♂️ About me:
----
 
 - 🧠 I'm always constantly learning and open to exploring new technologies & ideas.
 - 🎓 I have recently graduated from Humber College in the Computer Programming program.
@@ -27,35 +26,48 @@ Welcome to my Github profile!
 
 [![Tech Stack](https://skillicons.dev/icons?i=html,css,js&perline=5)](https://skillicons.dev)
 
-##### App Skills:
+##### Other Skills:
 <!--- MAX 5 cards per row --->
 
-[![Tech Stack](https://skillicons.dev/icons?i=vscode,git,github&perline=5)](https://skillicons.dev)
+[![Skills Stack](https://skillicons.dev/icons?i=git,github,vscode&perline=5)](https://skillicons.dev)
 
 <img alt="RGB Horizontal Line" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-📁 Project Portfolio & Contributions
----------------------------------
+<!-- Section04: Personal Portfolio & Contributions -->
+
+📁 Portfolio & Contributions
+-
 
  <!--[![Personal Website](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMuzalewski&repo=github-Personal_Website)](https://github.com/SebastianMuzalewski/Personal_Website) -->
 
-⚒️ My first personal project is currently in the works... Expected: 2025
+1. Personal Website   | Expected: Late 2025
+2. Dental Application | Expected: Mid-April
 
----
+<img alt="RGB Horizontal Line" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- Section05: Github Stats -->
 
 ⚙️ Github Statistics
---------------------
+-
+
+<!--- Github Project Statistics --->
 
 <a href="https://github.com/SebastianMuzalewski/github-readme-stats" >
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SebastianMuzalewski&theme=merko&card_width=370" />
 </a>
+
+<!--- Github Language Statistics --->
+
 <a href="https://github.com/SebastianMuzalewski/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SebastianMuzalewski&theme=merko&layout=compact&langs_count=8&card_width=370" />
 </a>
 
----
+<img alt="RGB Horizontal Line" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- Section06: Github Socials -->
+
 📡 Socials:
---------
+-
 
 <p style="visibility: hidden; display:none;">
   <a href="https://www.linkedin.com/in/seb-muz/" rel="nofollow"> 
@@ -78,6 +90,8 @@ Welcome to my Github profile!
     <img alt="Discord Messaging" src="https://camo.githubusercontent.com/8d2e74a023aae201a2b6f3dec205f31f364c754a54cb6fb03dbfa29ba943409b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d446973636f7264266c6f676f3d646973636f7264266c6162656c3d26636f6c6f723d373238394441266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765"/>
   </a>
 </p>
+
+<img alt="RGB Horizontal Line" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <!--- Extras
 
